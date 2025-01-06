@@ -47,3 +47,4 @@ height: 30px; width: 80px; color: rgb(226, 12, 162);font-size: 15px;}
 i{color: rgb(226, 12, 162); }
 tr{border: 2px solid aqua; text-transform: capitalize; font-family: Arial, Helvetica, sans-serif;}
 hr{border: 1px solid red;}
+a:hover{color: green;}
