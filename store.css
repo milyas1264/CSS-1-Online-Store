@@ -39,7 +39,7 @@ table{
     border-collapse: collapse; height: 80px; width: 80%;
     color: white; font-size: 20px;
 }
-li{color: white;margin-top: 10px; margin-left: 20px;}
+li{color: greenyellow;margin-top: 10px; margin-left: 20px;}
 label{margin-left: 20px;}
 button{margin-left: 20px; border-radius: 5px; border: red double; background-color: aqua;
 height: 30px; width: 80px; color: rgb(226, 12, 162);font-size: 15px;}
@@ -47,6 +47,7 @@ height: 30px; width: 80px; color: rgb(226, 12, 162);font-size: 15px;}
 i{color: rgb(226, 12, 162); }
 tr{border: 2px solid aqua; text-transform: capitalize; font-family: Arial, Helvetica, sans-serif;}
 hr{border: 1px solid red;}
-a:hover{color: green;}
+a:hover{color: palevioletred;}
 img{height: 100px; width: 100px;}
 ul{display: inline-block;}
+del{color: red;}
